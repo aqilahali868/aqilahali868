@@ -1,6 +1,6 @@
 ### Hello there! I'm Aqilah (@aqilahali868) Welcome to my GitHub!
 
-<https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDNiNGM2ZGZiY3hlMWM1YzBpeDVtdmJtYXN6bWljMG43ajA3aTRsMyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/ZAaaCK5RhUWxG/giphy.gif>
+<img src="Wave Hello GIF.gif" alt="hello-there" width="200"/>
 
 🦘🌴 &nbsp; Masters Marine Biology student at James Cook University (Townsville, Queensland, Australia)
 
