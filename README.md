@@ -4,11 +4,11 @@
 
 🦘🌴 &nbsp; Masters Marine Biology student at James Cook University (Townsville, Queensland, Australia)
 
-🪸🌱 &nbsp; Professional stream focused on Corals and Reef Ecology
+🪸🌱 &nbsp; Professional stream focused on Coral Conservation and Reef Ecology
 
 🧬🤿🔬 &nbsp; Interested in Coral research, assisted evolution and conservation efforts 
 
-👩🏾‍💻🐠 &nbsp; Population ecology, R statistics, and data analysis
+👩🏾‍💻🐠 &nbsp; Population ecology, R statistics, and Data analysis
 
 🇹🇹🌺 &nbsp; Originally from Trinidad and Tobago in the Caribbean
 
