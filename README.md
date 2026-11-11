@@ -6,7 +6,7 @@
 
 🪸🌱 &nbsp; Professional stream focused on Coral Conservation and Reef Ecology
 
-🧬🤿🔬 &nbsp; Interested in Marine Ecology, Coral research and conservation efforts, 
+🧬🤿🔬 &nbsp; Interested in Marine Ecology, Coral research and conservation efforts and Science communication  
 
 👩🏾‍💻🐠 &nbsp; Experience with R statistics, Metagenome sequencing, Data analysis and Visualisation
 
