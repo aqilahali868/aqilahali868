@@ -2,13 +2,13 @@
 
 <img src="Wave Hello GIF.gif" alt="hello-there" width="200"/>
 
-🦘🌴 &nbsp; Masters Marine Biology student at James Cook University (Townsville, Queensland, Australia)
+🦘🌴 &nbsp; Masters Marine Biology student at James Cook University (Townsville, QLD, Australia)
 
 🪸🌱 &nbsp; Professional stream focused on Coral Conservation and Reef Ecology
 
-🧬🤿🔬 &nbsp; Interested in Coral research, assisted evolution and conservation efforts 
+🧬🤿🔬 &nbsp; Interested in Marine Ecology, Coral research and conservation efforts, 
 
-👩🏾‍💻🐠 &nbsp; Population ecology, R statistics, and Data analysis
+👩🏾‍💻🐠 &nbsp; Experience with R statistics, Metagenome sequencing, Data analysis and Visualisation
 
 🇹🇹🌺 &nbsp; Originally from Trinidad and Tobago in the Caribbean
 
